@@ -1,4 +1,4 @@
-#Contenuto della cartella:
+# Contenuto della cartella:
 
 1. "**Anna Dingillo_software di prodotti vegani.ipynb**": il file colab inviato per correzione al coach.
 2. il feedback del coach

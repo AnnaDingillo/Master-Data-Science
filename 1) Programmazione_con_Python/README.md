@@ -1,10 +1,10 @@
 # Contenuto della cartella:
 
-1. "**Anna Dingillo_software di prodotti vegani.ipynb**": il file colab inviato per correzione al coach.
+1. "**Anna Dingillo_software di prodotti vegani.ipynb**": il file colab inviato per correzione al coach
 2. il feedback del coach
-3. "**Vegan-shop-managment-software.py**": il file con le correzioni pronto per l'utilizzo, indicazioni a seguire (Ita + Eng).
-4. Changelog.md: il file con il confronto tra le due versioni del codice.
-5. il certificato che attesta il superamento del corso.
+3. "**Vegan-shop-managment-software.py**": il file con le correzioni pronto per l'utilizzo, indicazioni a seguire (Ita + Eng)
+4. Changelog.md: il file con il confronto tra le due versioni del codice
+5. il certificato che attesta il superamento del corso
 
 
 # Software di Gestione Negozio Vegano (ITA)

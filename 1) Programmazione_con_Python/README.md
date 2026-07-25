@@ -84,5 +84,4 @@ All data is saved automatically in a .json file, so the inventory and financial 
 Run the `main.py` file to start the program and follow the interactive menu:
 
 ```bash
-python main.py
-
+python Vegan-shop-managment-software.py

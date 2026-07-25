@@ -3,9 +3,9 @@
 ## Contenuto della repository:
 
 Sottocartelle relative progetti svolti a fine modulo riportante:
-   - file originario trasmesso per correzione;
-   - feedback
-   - file rivisto (ove necessario)
+   - file di codice originario (inviato per correzione) vs rivisto (post commenti coach);
+   - feedback coach;
+   - certificazione di fine modulo.
      
 ## Moduli e relative certificazioni
 ### 1) Programmazione con Python:

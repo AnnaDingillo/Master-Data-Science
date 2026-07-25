@@ -40,12 +40,13 @@ Il progetto utilizza esclusivamente moduli integrati di Python:
 Tutti i dati vengono salvati automaticamente in un file .json, così magazzino e dati finanziari sono persistenti tra una sessione e l'altra.
 
 ## Come Usarlo
-
-Esegui il file `main.py` per avviare il programma e segui il menù interattivo:
+1. Tramite google colab copianto il linl github
+2. Convertendo il file in un file .py e lanciandolo da terminale:
 
 ```bash
-python main.py
+python "Anna Dingillo_software di prodotti vegani.py"
 ```
+
 
 # Vegan Shop Management Software (ENG)
 
@@ -81,7 +82,7 @@ All data is saved automatically in a .json file, so the inventory and financial 
 
 ## How to Use
 
-Run the `main.py` file to start the program and follow the interactive menu:
+Run the `Vegan-shop-managment-software.py` file to start the program and follow the interactive menu:
 
 ```bash
 python Vegan-shop-managment-software.py
